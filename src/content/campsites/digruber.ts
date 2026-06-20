@@ -75,9 +75,9 @@ export const digruber: CampsiteConfig = {
         image: { src: `${IMG}/gallery-5a65897062.webp`, alt: "Wohnwagen mit winterfestem Überdach am Campingplatz Digruber vor dem verschneiten Ötscher" },
       },
       {
-        title: "Sauna & Ruheraum",
-        text: "Nach dem Wandertag in die finnische oder Bio-Sauna — der Ruheraum im Haus lädt zum Verweilen ein.",
-        image: { src: `${IMG}/gallery-bf1026c4d2.webp`, alt: "Ruheraum mit Sauna im Haus Österreich der Familie Digruber" },
+        title: "Fußbodenbeheiztes Campinghaus",
+        text: "Einzelduschkabinen, Toiletten, Waschräume und Abwaschraum direkt am Platz — das beheizte Campinghaus macht den Aufenthalt auch im Winter komfortabel.",
+        image: { src: `${IMG}/hero-3ac33bb5eb.webp`, alt: "Haus Österreich Familie Digruber von oben – Hauptgebäude mit Terrasse vor dem Ötscher" },
       },
     ],
   },
