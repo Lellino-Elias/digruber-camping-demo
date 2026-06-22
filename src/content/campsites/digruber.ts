@@ -56,7 +56,7 @@ export const digruber: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/gallery-c450ea868e.webp`, alt: "Fuchswaldhütte am Skizentrum Großer Ötscher in Lackenhof mit verschneiten Pisten und Lift" },
+    aerial: { src: `${IMG}/hero-3ac33bb5eb.webp`, alt: "Haus Österreich Familie Digruber im Sommer – Hauptgebäude mit Campingplatz vor dem Ötscher" },
   },
 
   camping: {
@@ -77,7 +77,7 @@ export const digruber: CampsiteConfig = {
       {
         title: "Fußbodenbeheiztes Campinghaus",
         text: "Einzelduschkabinen, Toiletten, Waschräume und Abwaschraum direkt am Platz — das beheizte Campinghaus macht den Aufenthalt auch im Winter komfortabel.",
-        image: { src: `${IMG}/hero-3ac33bb5eb.webp`, alt: "Haus Österreich Familie Digruber von oben – Hauptgebäude mit Terrasse vor dem Ötscher" },
+        image: { src: `${IMG}/gallery-bf1026c4d2.webp`, alt: "Ruheraum im Haus Digruber – gemütlicher Innenbereich im beheizten Campinggebäude" },
       },
     ],
   },
