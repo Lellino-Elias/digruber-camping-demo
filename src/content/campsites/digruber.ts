@@ -56,7 +56,7 @@ export const digruber: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/hero-3ac33bb5eb.webp`, alt: "Haus Österreich Familie Digruber im Sommer – Hauptgebäude mit Campingplatz vor dem Ötscher" },
+    aerial: { src: `${IMG}/gallery-c450ea868e.webp`, alt: "Fuchswaldhütte von Familie Digruber im Skizentrum am Großen Ötscher, im Winter" },
   },
 
   camping: {
